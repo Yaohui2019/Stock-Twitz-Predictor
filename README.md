@@ -10,3 +10,5 @@ For this project, I'll use posts from the social media site [StockTwits](https:/
 The dataset is provided by a Udacity project which contains a bunch of twits with a labeled sentiment of each. The labels will be using a five-point scale: very negative, negative neutral, positive, very positive. Each twits is labelled -2 to 2 in steps of 1, from very negative to very positive respectively. 
 
 ## Current Status
+Enabled LSTM Network to perform sentiment analysis
+The BERT model still requires documentation
